@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+ section{
+    text-align: center;
+    background-attachment: fixed;
+    padding: 30px;
+    color: rgb(0, 0, 0);
+    font-size: 3em;
+
+    
+
+}
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+    
+}
+p{
+    text-align: center;
+    padding: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 100px;
+    display: flex;
+
+}
+h3{
+    color: aliceblue;
+}
+button{
+    color: rgb(0, 0, 255);
+    padding: 10px;
+
+    
+}
+.content{
+    
+}
